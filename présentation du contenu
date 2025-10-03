@@ -1,0 +1,11 @@
+dans ce sosu dossier,
+
+Nous placerons : 
+les scripts EDA : explore data analyssi
+ Si trouvent les df.heads, df.describe, ainsi que la partie de cleaning
+ Analyse.ipynb
+ cleaning.ipynb
+
+ Le script de ML
+
+ Et pour les plus agueris une partie de frontBack (API)
